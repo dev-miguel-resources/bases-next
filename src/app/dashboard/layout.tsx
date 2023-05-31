@@ -13,7 +13,7 @@ export default function DashboardLayout({
           <Link href="/dashboard/settings">Settings</Link> |
           <Link href="/dashboard/checkout">Checkout</Link> |
           <Link href="/dashboard/order">Order</Link> |
-          <Link href="/dashboard/products">Products</Link>
+          <Link href="/dashboard/products">Products</Link> |
           <Link href="/">Go back to Home</Link>
         </nav>
       </section>
